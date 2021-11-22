@@ -17,7 +17,6 @@ import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-
 public class AsnaTest {
     @DisplayName("Отображение поисковой строки на сайте https://www.asna.ru/")
     @Tag("WEB")
